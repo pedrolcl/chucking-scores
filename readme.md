@@ -137,7 +137,7 @@ Examples of greater complexity. Two concurrent voices.
 
 Some of the previous examples are based on scores published by the [Mutopia project](https://www.mutopiaproject.org). Bach's BWV645 can also be found in Mutopia, but here is a simplified version, with the corresponding score in [Lilypond format](bwv645.ly), and [PDF](bwv645.pdf) available.
 
-You may want to [download a package](score-samples.tar.gz) containing all the sample files and documents.
+You may want to [download a package](https://github.com/pedrolcl/chucking-scores/archive/refs/tags/v1.0.0.tar.gz) containing all the sample files and documents.
 
 Copyright (c) 2006-2023 Pedro Lopez-Cabanillas <<plcl@users.sourceforge.net>>
 Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the file [fdl.txt](fdl.txt) ("GNU Free Documentation License").
