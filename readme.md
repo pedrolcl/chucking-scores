@@ -131,10 +131,10 @@ Simple examples. Single voice melodies
 
 Examples of greater complexity. Two or more concurrent voices.
 
--   [anamag04.ck](anamag04.ck)
--   [green.ck](green.ck)
--   [bwv645.ck](bwv645.ck)
--   [canon.ck](canon.ck]
+-   [Bach: Notebook for Anna Magdalena, no.4](anamag04.ck)
+-   [Greensleeves](green.ck)
+-   [Bach: BWV645](bwv645.ck)
+-   [Pachelbel: Canon in D](canon.ck)
 
 Some of the previous examples are based on scores published by the [Mutopia project](https://www.mutopiaproject.org). Bach's BWV645 can also be found in Mutopia, but here is a simplified version, with the corresponding score in [Lilypond format](bwv645.ly), and [PDF](bwv645.pdf) available.
 
