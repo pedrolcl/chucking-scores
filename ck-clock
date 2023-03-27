@@ -1,0 +1,12 @@
+#!/bin/sh
+TMPFILE=/tmp/hourly.ck
+cp chimes.ck $TMPFILE
+echo "240000::ms / tempo => now;" >> $TMPFILE
+h=`date +%l`
+while [ $h -gt 0 ]; do
+    echo "std.mtof(55) => s.freq;" >> $TMPFILE
+    echo "1.0 => s.noteOn;" >> $TMPFILE
+    echo "240000::ms / tempo => now;" >> $TMPFILE
+    let "h--"
+done
+chuck-alsa $TMPFILE
